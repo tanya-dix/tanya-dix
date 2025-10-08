@@ -3,7 +3,7 @@
 <!--
 **tanya-dix/tanya-dix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some fun facts about me:
 
 - 🔭 I’m currently working on ... My Masters Degree at Drexel Univeristy 
 - 🌱 I’m currently learning ... about GitHub
