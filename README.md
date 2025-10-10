@@ -13,9 +13,9 @@ Here are some fun facts about me:
 - 😄 Watching ... Buffy the Vampire Slayer
 - ⚡ Fun fact: ... Christmas is my favorite holiday
 -->
-<p>Here is an interesting link on books that have made it on the list of banned books</p>
-<a href="https://github.com/EricCarey286/banned-books-hub">link</a>
-<p>I am currently learning about digital curation/digital preservation. I thought this would be a good link to refer to for additional insight</p>
+<p>Here is an interesting repo on books that have made it on the list of banned books</p>
+<a href="https://github.com/EricCarey286/banned-books-hub">Banned book hub</a>
+<p>I am currently learning about digital curation/digital preservation. I thought this would be a good repo to refer to for additional insight</p>
 <a href="https://github.com/Digital-Preservation-Coalition/learning">Digtal Preservation Coalition</a>
 
 To check current stock prices visit [Google Finance](https://www.google.com/finance/).
