@@ -17,3 +17,5 @@ Here are some fun facts about me:
 <a href="https://github.com/EricCarey286/banned-books-hub">link</a>
 <p>I am currently learning about digital curation/digital preservation. I thought this would be a good link to refer to for additional insight</p>
 <a href="https://github.com/Digital-Preservation-Coalition/learning">link</a>
+
+To check current stock prices visit [Google Finance](https://www.google.com/finance/).
